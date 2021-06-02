@@ -1,7 +1,7 @@
 # slidetocancel
 
 A new Flutter project.
-
+Slide to cancel task
 ## Getting Started
 
 This project is a starting point for a Flutter application.
